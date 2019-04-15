@@ -1,7 +1,7 @@
 # grids
 Contains different template grids for UI development.
 
-# Links
+## Links
 Screen sizes:  
 ⋅⋅* http://screensiz.es  
 ⋅⋅* http://gs.statcounter.com/screen-resolution-stats  
